@@ -16,7 +16,8 @@
     "appbuilder",
     "template",
     "master-details",
-    "detail"
+    "detail",
+    "category-general"
   ],
   "repository": {
     "type": "git",
